@@ -1,1 +1,1 @@
-[Markdown previewer live demo](dngugi.github.io/markdown-previwer)
+[Markdown previewer live demo](https://dngugi.github.io/markdown-previewer)
