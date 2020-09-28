@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.header{
+    padding: 1em;
+}
+
+
+.content{
+    margin-top: 2em;
+}
+
+#preview {
+    border: 1px solid white;
+    padding: 1em;
+    color: black;
+    background-color: white;
+}
